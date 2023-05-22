@@ -1,0 +1,21 @@
+package stringMethodsExamples;
+
+public class LengthMethodExample1 {
+
+	public static void main(String[] args) {
+		
+		String name = "David Miller";
+		
+		String email = "david@gmail.com";
+		
+		String Password = "david1234";
+		
+		
+		System.out.println(name.length());
+		System.out.println(email.length());
+		System.out.println(Password.length());
+
+		
+	}
+
+}
